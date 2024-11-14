@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunsoni-007
+- 👋 Hi, I’m @arunsoni
 - 👀 I'm interested in making new connections.
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on data analytics projects.
