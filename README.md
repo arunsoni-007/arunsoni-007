@@ -24,23 +24,23 @@
 ---
 
 <h2>💻 Tech Skills</h2>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="height:50px; width:200px;" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="height:50px; width:200px;" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="height:50px; width:200px;" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" style="height:50px; width:200px;" />
+</div>
+
 
 ---
 
 <h2>📊 GitHub Stats & Activity</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunsoni-007&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsoni-007&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=arunsoni-007&theme=radical" alt="GitHub Streak" width="49%" />
 </div>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=arunsoni-007&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunsoni-007&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -60,6 +60,22 @@
 
 ---
 
+<h2>🌟 Features</h2>
+<div align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=arunsoni-007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+<h2>💡 Motivational Quote</h2>
+<p align="center">
+  <img src="https://zenquotes.io/api/image" alt="Motivational Quote" width="600" />
+</p>
+
+
+---
+
 <h2 align="center">🎯 Dynamic Visualization</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF" />
@@ -76,16 +92,10 @@
 
 ---
 
-<h2>💡 Fun Features</h2>
-<p align="center">
-  <!-- Fixed Fun Fact Placeholder -->
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&quoteCategory=motivational" alt="Motivational Quote" />
+<h2>🌟 Random Fun Fact</h2>
+<p>
+  Did you know? The first computer virus was created in 1986 and was named "Brain"!
 </p>
-
----
-
-<h2>🌟 Fun Fact</h2>
-<p>Camping and stargazing are two things I could do forever!</p>
 
 ---
 
@@ -97,3 +107,5 @@
 <!---
 arunsoni-007/arunsoni-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+
+
