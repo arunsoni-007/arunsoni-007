@@ -1,12 +1,99 @@
-- 👋 Hi, I’m @arunsoni
-- 👀 I'm interested in making new connections.
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on data analytics projects.
-- 📫 How to reach me Linkedin - https://www.linkedin.com/in/arun2310/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Camping, Outdoor adventures
+<h1 align="center">
+  Hi there, I'm Arun Soni! 👋
+</h1>
+<h3 align="center">
+  🌟 Data Analytics Enthusiast | Outdoor Adventurer | Lifelong Learner 🌟
+</h3>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I'm+a+Data+Analytics+Learner!;Let's+Collaborate+on+Projects!;Coding+is+Fun!+🚀" alt="Typing Animation" />
+</div>
+
+---
+
+<h2>📜 About Me</h2>
+<ul>
+  <li>💻 I'm passionate about <strong>Data Analytics</strong> and love solving real-world problems with data.</li>
+  <li>🌱 Currently learning advanced techniques in SQL, Power BI, and Tableau.</li>
+  <li>🎯 Looking to collaborate on data-driven projects and gain hands-on experience.</li>
+  <li>⚡ Fun fact: I enjoy <strong>camping and outdoor adventures</strong> in my free time.</li>
+</ul>
+
+---
+
+<h2>💻 Tech Skills</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+---
+
+<h2>📊 GitHub Stats & Activity</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunsoni-007&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsoni-007&theme=radical" alt="GitHub Streak" width="49%" />
+</div>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=arunsoni-007&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<h2>🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arun2310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:soniarun0000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/arunsoni-007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🎯 Dynamic Visualization</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF" />
+</div>
+
+---
+
+<h2>🚀 Current Projects</h2>
+<ul>
+  <li>📊 <strong>Sales Dashboard Analysis:</strong> Using Power BI to analyze e-commerce trends.</li>
+  <li>📚 <strong>Online Bookstore SQL Analysis:</strong> Exploring customer behavior using SQL queries.</li>
+  <li>💡 <strong>Data Visualization Blogs:</strong> Writing tutorials on Tableau and Power BI for beginners.</li>
+</ul>
+
+---
+
+<h2>💡 Fun Features</h2>
+<p align="center">
+  <!-- Fixed Fun Fact Placeholder -->
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&quoteCategory=motivational" alt="Motivational Quote" />
+</p>
+
+---
+
+<h2>🌟 Fun Fact</h2>
+<p>Camping and stargazing are two things I could do forever!</p>
+
+---
+
+<h2>⭐ Support Me</h2>
+<p>If you like my projects or find my repositories helpful, please consider giving a ⭐ or collaborating with me!</p>
+
+---
 
 <!---
 arunsoni-007/arunsoni-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
