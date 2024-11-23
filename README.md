@@ -76,13 +76,6 @@
 
 ---
 
-<h2 align="center">🎯 Dynamic Visualization</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF" />
-</div>
-
----
-
 <h2>🚀 Current Projects</h2>
 <ul>
   <li>📊 <strong>Sales Dashboard Analysis:</strong> Using Power BI to analyze e-commerce trends.</li>
